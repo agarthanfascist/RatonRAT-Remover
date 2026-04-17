@@ -580,7 +580,7 @@ void Banner() {
     printf("  ============================================================\n");
     printf("  ||                                                        ||\n");
     printf("  ||              RATON RAT REMOVAL TOOL                    ||\n");
-    printf("  ||   https://github.com/agarthanfaccist/RatonRAT-Remover  ||\n");
+    printf("  ||   https://github.com/agarthanfascist/RatonRAT-Remover  ||\n");
     printf("  ============================================================\n");
     SetColor(COLOR_WHITE);
     printf("\n");
